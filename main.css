@@ -1,0 +1,25 @@
+body{
+font-size: 20px; font-style: normal;
+background-color:rgb(77, 20, 182); 
+background-image: url("https://th.bing.com/th/id/OIP.bMg6h-yw7QVLsf-lnUQFbwAAAA?w=178&h=128&c=7&r=0&o=5&dpr=1.9&pid=1.7");
+padding: 10px 50px 20x; padding: 4em;
+}
+
+
+nav{
+    border: 2px; padding: 1em; background-color: rgb(212, 59, 59); box-shadow: 2px;
+}
+
+#exciting:before {
+    content: "!";
+    margin-right: 3px;
+}
+#exciting::after {
+    content: "!";
+    margin-right: 2px;
+}
+
+nav span img{
+    width: 20px;
+    height: 20px;
+}
